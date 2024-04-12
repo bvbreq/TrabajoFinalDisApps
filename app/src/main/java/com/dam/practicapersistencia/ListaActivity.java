@@ -14,7 +14,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class ListaActivity extends Activity {
-//version andres
+//version andres bruno
     private ListView lista;
 
 
